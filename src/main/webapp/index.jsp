@@ -76,7 +76,7 @@ text-decoration: none;
 3.회원정보,매출정보 테이블에 제시된 문제지의 참조데이터를 추가 생성한다.
 4.회원정보 입력 화면프로그램을 작성한다.
 5.회원정보 조회 프로그램을 작성한다.
-6.회원매출정보 조회 프로그램을 작성한다.
+6.회원매출정보 조회 프로그램을 작성한다.!!!!!!!!!!!!!
 </pre></p>
 </section>
 <footer><h2>HRDKOREA Copyrightⓒ2016 All right reserved Human Development Service of Korea</h2></footer>
